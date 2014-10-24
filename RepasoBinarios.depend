@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413903726 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/RepasoBinarios/main.cpp
+	<iostream>
+	<fstream>
+
